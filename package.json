@@ -11,6 +11,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "assign-deep": "^1.0.1",
     "nuxt": "^2.0.0"
   },
   "devDependencies": {}
